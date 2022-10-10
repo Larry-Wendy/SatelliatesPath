@@ -1,2 +1,2 @@
 # SatelliatesPath
-### StarPaths: React JS based Starlink Trajectory Visualization
+### React JS based Starlink Trajectory Visualization
